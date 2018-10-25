@@ -19,6 +19,9 @@
 - [Which protocol should be used in Video streaming ? TCP or UDP ?](http://stackoverflow.com/questions/6187456/tcp-vs-udp-on-video-stream)
 
 
+## Boot sequence
+- [Linux Boot Process](https://github.com/nu11secur1ty/All-Stages-of-Linux-Booting-Process-)
+
 ## Core Embedded
 - [What is the difference between Von-neuman and Harvard Architecture ?](https://www.quora.com/What-is-the-difference-between-the-Von-Neumann-architecture-and-the-Harvard-architecture)
 - [What is the significance of volatile keyword in c ?](http://www.embedded.com/electronics-blogs/beginner-s-corner/4023801/Introduction-to-the-Volatile-Keyword)
