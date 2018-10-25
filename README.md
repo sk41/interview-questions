@@ -43,6 +43,14 @@
 - [What are device drivers?](https://www.quora.com/What-are-device-drivers)
 - [What is the boot-loader and startup code in embedded system?](https://www.quora.com/What-is-the-boot-loader-and-startup-code-in-embedded-system)
 
+
 ## Bus Protocols
 - [Difference between UART and RS-232?](https://electronics.stackexchange.com/questions/110478/difference-between-uart-and-rs-232)
 - [SPI versus I2C protocols](https://bitwizard.nl/wiki/SPI_versus_I2C_protocols)
+- [What is the UART at the embedded system?](https://www.quora.com/What-is-the-UART-at-the-embedded-system)
+- [What is I2C in simple terms? Where do we use this protocol? Why would most SOCs have I2C protocol?](https://www.quora.com/What-is-I2C-in-simple-terms-Where-do-we-use-this-protocol-Why-would-most-SOCs-have-I2C-protocol)
+- [What is SPI protocol in Embedded Systems?](https://www.quora.com/What-is-SPI-protocol-in-Embedded-Systems)
+- [What is CAN protocol?](https://www.quora.com/What-is-CAN-protocol)
+- [What is a USB, and how does it work?](https://www.quora.com/What-is-a-USB-and-how-does-it-work)
+- [What are interrupts and how do they work?](https://www.quora.com/What-are-interrupts-and-how-do-they-work)
+
