@@ -22,6 +22,14 @@
 ## Boot sequence
 - [Linux Boot Process](https://github.com/nu11secur1ty/All-Stages-of-Linux-Booting-Process-)
 
+
+## Memory management
+- [What is dynamic memory allocation and static memory allocation?](https://www.quora.com/What-is-dynamic-memory-allocation-and-static-memory-allocation)
+- [What is the correct sequence of memory access while running a computer program?](https://www.quora.com/What-is-the-correct-sequence-of-memory-access-while-running-a-computer-program)
+- [How and from where I could learn more about kernel memory management to implement the device drivers?](https://www.quora.com/How-and-from-where-I-could-learn-more-about-kernel-memory-management-to-implement-the-device-drivers)
+- [Memory allocation](https://www.edn.com/design/systems-design/4412606/Embedded-Operating-Systems---Part-4--Memory-management)
+
+
 ## Core Embedded
 - [What is the difference between Von-neuman and Harvard Architecture ?](https://www.quora.com/What-is-the-difference-between-the-Von-Neumann-architecture-and-the-Harvard-architecture)
 - [What is the significance of volatile keyword in c ?](http://www.embedded.com/electronics-blogs/beginner-s-corner/4023801/Introduction-to-the-Volatile-Keyword)
