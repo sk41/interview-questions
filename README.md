@@ -10,8 +10,13 @@
 - [What is the difference between Thread and Process ?](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
 - [Differentiate between mutexes vs semaphores.](https://www.quora.com/What-is-the-difference-between-a-mutex-and-a-semaphore)
 
+
 ## RTOS
 - [What is a real-time operating system ?](https://www.quora.com/What-is-a-real-time-operating-system)
+- [How does one decide whether to use an (RTOS) for an embedded system?](https://www.quora.com/How-does-one-decide-whether-to-use-an-RTOS-for-an-embedded-system)
+- [What are good resources to learn about RTOS for embedded systems, e.g. how to use it, how to integrate your application?](https://www.quora.com/What-are-good-resources-to-learn-about-RTOS-for-embedded-systems-e-g-how-to-use-it-how-to-integrate-your-application)
+- [What are some examples of Real Time Operating System?](https://www.quora.com/What-are-some-examples-of-Real-Time-Operating-System)
+- [What is the difference between real time operating system and non real time operating system?](https://www.quora.com/What-is-the-difference-between-real-time-operating-system-and-non-real-time-operating-system)
 
 
 ## Networking
