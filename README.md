@@ -17,6 +17,7 @@
 - [What are good resources to learn about RTOS for embedded systems, e.g. how to use it, how to integrate your application?](https://www.quora.com/What-are-good-resources-to-learn-about-RTOS-for-embedded-systems-e-g-how-to-use-it-how-to-integrate-your-application)
 - [What are some examples of Real Time Operating System?](https://www.quora.com/What-are-some-examples-of-Real-Time-Operating-System)
 - [What is the difference between real time operating system and non real time operating system?](https://www.quora.com/What-is-the-difference-between-real-time-operating-system-and-non-real-time-operating-system)
+- [Difference between spinlock and mutex ?](https://attractivechaos.wordpress.com/2011/10/06/multi-threaded-programming-efficiency-of-locking/)
 
 
 ## Networking
